@@ -1,0 +1,11 @@
+{
+    "modules": [
+        "eynsai/eynsai_statemachine",
+        "eynsai/special_keys",
+        "eynsai/mouse_passthrough",
+        "eynsai/inverse_mousekeys",
+        "eynsai/mouse_buffer",
+        "eynsai/hires_dragscroll",
+        "eynsai/rgb_indicators"
+    ]
+}
