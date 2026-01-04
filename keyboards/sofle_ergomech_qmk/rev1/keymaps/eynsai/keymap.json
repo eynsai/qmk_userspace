@@ -2,7 +2,10 @@
     "modules": [
         "eynsai/eynsai_statemachine",
         "eynsai/special_keys",
+        "eynsai/simple_timer",
         "eynsai/mouse_passthrough",
+        "eynsai/mouse_axis_snapping",
+        "eynsai/mouse_watcher",
         "eynsai/inverse_mousekeys",
         "eynsai/mouse_buffer",
         "eynsai/hires_dragscroll",
